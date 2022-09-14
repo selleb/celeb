@@ -50,8 +50,8 @@ const Contact = () => {
             <div className="phone details">
               <AiFillPhone className='icon-c' />
               <div className="topic">Phone</div>
-              <div className="text-one">---- ---- ----</div>
-              <div className="text-two">---- ----- ---</div>
+              <div className="text-one">(720) 263-6440</div>
+           
             </div>
 
             <div className="email details">
